@@ -1,0 +1,12 @@
+# Database (contains private contact submissions)
+backend/contacts.db
+
+# Python cache
+backend/__pycache__/
+__pycache__/
+*.pyc
+
+# OS / editor junk
+desktop.ini
+.DS_Store
+Thumbs.db
